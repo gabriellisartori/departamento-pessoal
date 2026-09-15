@@ -1,0 +1,9 @@
+# Compiled output
+out/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled class files
+*.class
